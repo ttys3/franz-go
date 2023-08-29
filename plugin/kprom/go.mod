@@ -10,6 +10,6 @@ require (
 	github.com/prometheus/procfs v0.7.3 // indirect
 	github.com/twmb/franz-go v1.0.0
 	github.com/twmb/franz-go/pkg/kmsg v0.0.0-20210914042331-106aef61b693 // indirect
-	golang.org/x/sys v0.0.0-20210910150752-751e447fb3d0 // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	google.golang.org/protobuf v1.27.1 // indirect
 )
